@@ -191,7 +191,7 @@ const OurCoffees = () => {
   }, []);
 
   return (
-    <div className="flex flex-col w-screen h-[100vh] mt-10 overflow-y-auto">
+    <div className="flex flex-col w-screen h-[100vh] mt-14 overflow-y-auto">
       {/* Main content wrapper */}
       <div className="flex items-center w-screen h-screen text-white">
         {/* Blurry Preview */}
